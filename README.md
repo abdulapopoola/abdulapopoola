@@ -11,9 +11,9 @@ I am passionate about leadership methodologies for high-impact outcomes, buildin
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Evaluating Managers: 5 heuristics to measure managerial impact](https://abdulapopoola.com/2023/01/09/evaluating-managers-5-heuristics-to-measure-managerial-impact/)
+- [Scaling past Port Exhaustion: when 100k+ ports were not enough](https://abdulapopoola.com/2022/12/07/scaling-past-port-exhaustion-when-100k-ports-were-not-enough/)
+- [Why most monitoring strategies fail](https://abdulapopoola.com/2022/11/16/why-most-monitoring-strategies-fail/)
+- [Book Review: Slack, Getting past burnout, busywork, and the myth of total efficiency](https://abdulapopoola.com/2022/09/13/book-review-slack-getting-past-burnout-busywork-and-the-myth-of-total-efficiency/)
+- [Defense-in-depth: a strategy for leading understaffed teams](https://abdulapopoola.com/2022/08/25/defense-in-depth-a-strategy-for-leading-understaffed-teams/)
 <!-- BLOG-POST-LIST:END -->
