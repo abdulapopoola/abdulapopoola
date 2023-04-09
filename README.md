@@ -6,7 +6,7 @@ I am passionate about leadership methodologies for high-impact outcomes, buildin
 
 ### A little more about me
 - 💬 Ask me about: software development, technical leadership, and engineering management.
-- 📫 Reach me at: me@abdulapopoola.com
+- 📫 Reach me at: abdulapopoola@gmail.com
 - ⚡ Fun fact: I can get by in 5 different languages!
 
 ### Blog posts
