@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 I'm AbdulFattaah, an engineering leader with a wide variety of experience spanning multiple technology stacks and business maturity phases. 
 
