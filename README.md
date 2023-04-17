@@ -5,9 +5,9 @@ I'm AbdulFattaah, an engineering leader with a wide variety of experience spanni
 I am passionate about leadership methodologies for high-impact outcomes, building high-performing teams, and continuously learning.
 
 ### A little more about me
-- 💬 Ask me about: software development, technical leadership, and engineering management.
-- 📫 Reach me at: abdulapopoola@gmail.com
-- ⚡ Fun fact: I can get by in 5 different languages!
+- **💬 Ask me about:** software development, technical leadership, and engineering management.
+- **📫 Reach me at:** abdulapopoola@gmail.com
+- **⚡ Fun fact:** I can get by in 5 different languages!
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
