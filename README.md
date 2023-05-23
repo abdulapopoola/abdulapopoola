@@ -11,9 +11,9 @@ I am passionate about leadership methodologies for high-impact outcomes, buildin
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The complicated parts of leadership: Trust and Verify](https://abdulapopoola.com/2023/05/22/the-complicated-parts-of-leadership-trust-and-verify/)
 - [The complicated parts of leadership: Betting on people](https://abdulapopoola.com/2023/05/08/the-complicated-parts-of-leadership-betting-on-people/)
 - [10x your feedback game: Choose kindness over niceness](https://abdulapopoola.com/2023/02/06/10x-your-feedback-game-choose-kindness-over-niceness/)
 - [Evaluating Managers: 5 heuristics to measure managerial impact](https://abdulapopoola.com/2023/01/09/evaluating-managers-5-heuristics-to-measure-managerial-impact/)
 - [Scaling past Port Exhaustion: when 100k+ ports were not enough](https://abdulapopoola.com/2022/12/07/scaling-past-port-exhaustion-when-100k-ports-were-not-enough/)
-- [Why most monitoring strategies fail](https://abdulapopoola.com/2022/11/16/why-most-monitoring-strategies-fail/)
 <!-- BLOG-POST-LIST:END -->
