@@ -11,9 +11,9 @@ I am passionate about leadership methodologies for high-impact outcomes, buildin
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A 3-step strategy for experienced professionals starting new jobs](https://abdulapopoola.com/2023/07/26/a-3-step-strategy-for-experienced-professionals-starting-new-jobs/)
 - [The complicated parts of leadership: Eliminate chaos](https://abdulapopoola.com/2023/06/20/the-complicated-parts-of-leadership-eliminate-chaos/)
 - [Ace Your Job Interview: Tips for Landing Your Dream Job](https://abdulapopoola.com/2023/06/05/ace-your-job-interview-tips-for-landing-your-dream-job/)
 - [The complicated parts of leadership: Trust and Verify](https://abdulapopoola.com/2023/05/22/the-complicated-parts-of-leadership-trust-and-verify/)
 - [The complicated parts of leadership: Betting on people](https://abdulapopoola.com/2023/05/08/the-complicated-parts-of-leadership-betting-on-people/)
-- [10x your feedback game: Choose kindness over niceness](https://abdulapopoola.com/2023/02/06/10x-your-feedback-game-choose-kindness-over-niceness/)
 <!-- BLOG-POST-LIST:END -->
