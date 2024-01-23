@@ -11,9 +11,9 @@ I am passionate about leadership methodologies for high-impact outcomes, buildin
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The language Series: Ruby](https://abdulapopoola.com/2024/01/16/the-language-series-ruby/)
 - [Turning Tension into Triumph: Techniques for Tough Conversations](https://abdulapopoola.com/2024/01/02/turning-tension-into-triumph-techniques-for-taming-tough-conversations/)
 - [The cow and the chicken: overcoming resistance to change](https://abdulapopoola.com/2023/11/13/the-cow-and-the-chicken-overcoming-resistance-to-change/)
 - [Help! I’m stuck! I want to get to the next level!!](https://abdulapopoola.com/2023/10/23/help-im-stuck-i-want-to-get-to-the-next-level/)
 - [Keep calm and carry on: Taming the siren call of overwhelm and overwork](https://abdulapopoola.com/2023/08/28/keep-calm-and-carry-on-taming-the-siren-call-of-overwhelm-and-overwork/)
-- [A 3-step strategy for experienced professionals starting new jobs](https://abdulapopoola.com/2023/07/26/a-3-step-strategy-for-experienced-professionals-starting-new-jobs/)
 <!-- BLOG-POST-LIST:END -->
