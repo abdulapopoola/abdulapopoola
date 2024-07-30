@@ -11,9 +11,9 @@ I am passionate about leadership methodologies for high-impact outcomes, buildin
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Book Review: Waltzing With Bears: Managing Risk on Software Projects](https://abdulapopoola.com/2024/07/24/book-review-waltzing-with-bears-managing-risk-on-software-projects/)
 - [Paper Review: Dynamo: Amazon’s Highly Available Key-value Store](https://abdulapopoola.com/2024/07/17/paper-review-dynamo-amazons-highly-available-key-value-store/)
 - [Leadership Strategies for Product Maturity Phases](https://abdulapopoola.com/2024/07/10/engineering-strategies-for-navigating-product-maturity-from-startup-to-scale/)
 - [BCE: A structured approach to prioritizing work and allocating resources](https://abdulapopoola.com/2024/02/27/making-resourcing-allocations-and-prioritizing-investments/)
 - [Incident Response doesn’t have to be painful: Common pitfalls and recommendations](https://abdulapopoola.com/2024/02/13/livesite-doesnt-have-to-be-painful-common-pitfalls-and-fixes/)
-- [The language Series: Ruby](https://abdulapopoola.com/2024/01/16/the-language-series-ruby/)
 <!-- BLOG-POST-LIST:END -->
