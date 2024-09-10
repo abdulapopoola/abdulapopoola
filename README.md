@@ -11,9 +11,9 @@ I am passionate about leadership methodologies for high-impact outcomes, buildin
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding the Goldilocks Zone: Just the right amount of process](https://abdulapopoola.com/2024/09/04/finding-the-goldilocks-zone-just-the-right-amount-of-process/)
 - [Book Review: The Mom Test](https://abdulapopoola.com/2024/08/14/book-review-the-mom-test/)
 - [Book Review: Waltzing With Bears: Managing Risk on Software Projects](https://abdulapopoola.com/2024/07/24/book-review-waltzing-with-bears-managing-risk-on-software-projects/)
 - [Paper Review: Dynamo: Amazon’s Highly Available Key-value Store](https://abdulapopoola.com/2024/07/17/paper-review-dynamo-amazons-highly-available-key-value-store/)
 - [Leadership Strategies for Product Maturity Phases](https://abdulapopoola.com/2024/07/10/engineering-strategies-for-navigating-product-maturity-from-startup-to-scale/)
-- [BCE: A structured approach to prioritizing work and allocating resources](https://abdulapopoola.com/2024/02/27/making-resourcing-allocations-and-prioritizing-investments/)
 <!-- BLOG-POST-LIST:END -->
